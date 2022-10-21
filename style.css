@@ -1,0 +1,86 @@
+body{
+    min-height: 100vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("back.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+}
+.button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+    width: 200px;
+    background-color: goldenrod;
+    border-color:goldenrod ;
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 80px;
+    margin-left: 5px;
+    padding-left: 20px;
+    
+}
+.tap{
+    color: rgb(75, 3, 3);
+    font-style: italic;
+}
+h5{
+    color: black;
+}
+.last{
+    color: black;
+    margin-top: 10px;
+    color: rgb(48, 145, 230);
+    font-size: 8px ;
+
+}
+.lastname{
+    font-size:10px ;
+    margin-top: 8px;
+    font-family: sans-serif; 
+    color: rgb(50, 171, 231);
+}
+.datetime{
+    color: rgb(130, 130, 235);
+}
+
+
+@media screen and (max-width:1200px) {
+    .content{
+        width: 100%;
+        text-align: center;
+        font-size: larger;
+        font-weight: bold;
+}
+.button{
+    margin: 70px;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.tap{
+    font-size: 30px;
+}
+h5{
+    font-size: 15px;
+}
+.op{
+    font-size: 40px;
+}
+h1{
+    font-size: 80px;
+}
+.last{
+
+}
+}
