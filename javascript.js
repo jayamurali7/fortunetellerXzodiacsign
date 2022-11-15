@@ -58,14 +58,14 @@ let message1 =    "Stop eating the paper"
 let message2 =    "2023 gonna be yours"
 let message3 =    "Do the thing you fear, and the death of fear is certain"
 let message4 =    "Happy life is just in front of you"
-let message5 =    "Somebody is staring at you So"
+let message5 =    "Somebody is staring at you"
 let message6 =    "Your family is young, gifted and attractive"
 let message7 =    "Take extra one cup of coffe or tea in this evening"
 let message8 =    "Take two bananas to control your farting skill"
 let message9 =    "Don't give up, you are almost close to that one billion'th second"
 let message10 =    "you are the only useless in your family So start studying now"
 let message11 =    "If you got them in dream in an upcoming week They are yours"
-let message12 =    "slap the person forcefully, who interrupt to you Now"
+let message12 =    "slap the person forcefully who interrupt to you, Now"
 
 
    
