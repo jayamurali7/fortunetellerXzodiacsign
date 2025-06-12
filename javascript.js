@@ -52,7 +52,7 @@ setInterval(() => {
   dateElement.textContent = formatDate(now);
 }, 200);
 
-alert("Thank you for spending your precious time to visit this webpage") 
+alert(""Hey there! Thanks for visiting our website!"") 
 
 let message1 =    "Stop eating the paper"
 let message2 =    "You >> Quagmire"
