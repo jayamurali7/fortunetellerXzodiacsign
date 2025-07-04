@@ -65,7 +65,7 @@ let message8 =    "Take two bananas to control your farting skill"
 let message9 =    "Don't give up, you are almost close to that one billion'th second"
 let message10 =    "you are the only useless in your family So start studying now"
 let message11 =    "Do the thing you fear, and the death of fear is certain"
-let message12 =    "slap the person first! orelse somebody slap you"
+let message12 =    "Do you believe in fortune I think its pointless get back to your!"
 
 
    
